@@ -1,5 +1,6 @@
 
 A browser version of the classic Tetris game built in React to teach myself more on React and React hooks.
+
 Based off of Weibenfalk's tutorial
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
