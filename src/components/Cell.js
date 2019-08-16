@@ -1,7 +1,7 @@
 import React from 'react';
 import { TETROMINOS } from '../tetrominos';
 
-//Styles
+// Styled Components
 import { StyledCell } from './styles/StyledCell';
 
 export default function Cell({type}) {

@@ -1,6 +1,6 @@
 import React from 'react';
 
-//Styles
+// Styled Components
 import { StyledStartButton } from './styles/StyledStartButton';
 
 export default function StartButton({ callback }) {

@@ -1,6 +1,6 @@
 import React from 'react';
 
-//Styles
+// Styled Components
 import { StyledDisplay } from './styles/StyledDisplay';
 
 

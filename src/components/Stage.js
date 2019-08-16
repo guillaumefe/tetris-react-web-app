@@ -1,6 +1,6 @@
 import React from 'react';
 
-//Styles
+// Styled Components
 import { StyledStage } from './styles/StyledStage';
 
 //Components
