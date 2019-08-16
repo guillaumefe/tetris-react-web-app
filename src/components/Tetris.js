@@ -50,7 +50,7 @@ export default function Tetris() {
                 movePlayer(-1);
             } else if (keyCode === 39){// right arrow key
                 movePlayer(1)
-            } else if (keyCode === 39){// down arrow key
+            } else if (keyCode === 40){// down arrow key
                 dropPlayer()
             }
         }
@@ -70,7 +70,7 @@ export default function Tetris() {
                         <Display text="Level" />
                     </div>
                     )}
-                    <StartButton onClick={startGame}/>
+                    <StartButton callback={startGame}/>
                 </aside>
             </StyledTetris>
         </StyledTetrisWrapper>
