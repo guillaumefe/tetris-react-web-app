@@ -3,9 +3,10 @@ A browser version of the classic Tetris game built in React to teach myself more
 
 Based off of Weibenfalk's tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
