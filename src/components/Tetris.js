@@ -1,6 +1,7 @@
 import React from 'react';
 
 import { createStage } from '../gameHelpers';
+
 //Styles
 import { StyledTetrisWrapper, StyledTetris} from './styles/StyledTetris';
 
