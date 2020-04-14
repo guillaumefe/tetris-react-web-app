@@ -15,6 +15,7 @@ import { useGameStatus } from '../hooks/useGameStatus';
 import Stage from './Stage';
 import Display from './Display';
 import StartButton from './StartButton';
+import UploadButton from './UploadButton';
 
 export default function Tetris() {
 
@@ -114,6 +115,7 @@ export default function Tetris() {
                             </div>
                         )}
                     <StartButton callback={startGame} />
+                    <UploadButton />
                 </aside>
             </StyledTetris>
         </StyledTetrisWrapper>
