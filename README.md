@@ -3,7 +3,6 @@ A browser version of the classic Tetris game built in React to teach myself more
 
 Based off of Weibenfalk's tutorial
 
-
 ## Available Scripts
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +71,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### More info (French)
+
+
+[![Regarder le short](https://img.youtube.com/vi/SQA1Ea794wo/hqdefault.jpg)](https://youtube.com/shorts/SQA1Ea794wo?si=riSF_jXx3hL96w5T)
+
