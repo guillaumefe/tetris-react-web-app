@@ -72,8 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-### More info (popular science for the general public) (French)
-
+### More on this (popular science for the general public) (French)
 
 [![Regarder le short](https://img.youtube.com/vi/SQA1Ea794wo/hqdefault.jpg)](https://youtube.com/shorts/SQA1Ea794wo?si=riSF_jXx3hL96w5T)
 
